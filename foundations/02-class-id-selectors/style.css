@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
+}
+*{
+    color:black;
+}
+
+#blue-s{
+    color:blue;
+    font-size: 24px;
+}
+
+#green-b{
+    background-color: greenyellow;
+    font-weight: bold;
+}
+
+.big {
+    font-size:16px;
+}
